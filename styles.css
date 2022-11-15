@@ -39,7 +39,7 @@ body {
   position: absolute;
   bottom: 20px;
   left: 20px;
-  font-size: 25px;
+  font-size: 35px;
   margin: 0;
   opacity: 0;
 }
@@ -58,4 +58,16 @@ body {
 
 .ferrari{
   background-image: url("/img/ferarri.jpg");
+}
+
+.mb{
+  background-image: url("/img/e63.jpg");
+}
+
+.bugatti{
+  background-image: url("/img/buggati.jpg");
+}
+
+.mbg{
+  background-image: url("/img/mbg63.jpg");
 }
